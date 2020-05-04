@@ -1,2 +1,2 @@
-# itsnaked
-A unconventional Snake game
+# It'Snaked
+An unconventional Snake game
